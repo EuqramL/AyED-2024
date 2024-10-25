@@ -1,0 +1,15 @@
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.exe
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.deps.json
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.runtimeconfig.json
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.dll
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\bin\Debug\net5.0\ConsoleApp2.pdb
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.dll
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\refint\ConsoleApp2.dll
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.pdb
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\lucil\Downloads\Etapa1\17_Marque_MiPrimerMenuObjetivo\ConsoleApp2\ConsoleApp2\obj\Debug\net5.0\ref\ConsoleApp2.dll
